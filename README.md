@@ -1,4 +1,4 @@
 ## moyoECG device bootloader with BLE firmware update capability
 
-This bootloader version by default starts in BLE mode and allows to update uECG firmware using an app. It can also be switched into base station mode for firmware uploading using nodejs-based PC tool (requires base station).
 
+By default, this bootloader version initiates in BLE mode, facilitating moyoECG firmware updates through a dedicated app. Additionally, it offers the flexibility to switch to base station mode for firmware uploads utilizing a nodejs-based PC tool, necessitating the presence of a base statio
